@@ -1,0 +1,6 @@
+D:\aakash\Calculation\Calculation\bin\Debug\Calculation.exe.config
+D:\aakash\Calculation\Calculation\bin\Debug\Calculation.exe
+D:\aakash\Calculation\Calculation\bin\Debug\Calculation.pdb
+D:\aakash\Calculation\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
+D:\aakash\Calculation\Calculation\obj\Debug\Calculation.exe
+D:\aakash\Calculation\Calculation\obj\Debug\Calculation.pdb
